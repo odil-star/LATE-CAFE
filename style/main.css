@@ -1,0 +1,37 @@
+@import url('./font.css');
+
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+.container {
+    max-width: 1200px;
+    /* максимальная ширина */
+    width: 100%;
+    /* занимает всю доступную ширину */
+    margin: 0 auto;
+    /* центрирует блок */
+    padding: 0 20px;
+    /* отступы слева/справа */
+}
+html {
+    scroll-behavior: smooth;
+}

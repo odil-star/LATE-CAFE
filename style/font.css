@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Azeret Mono';
+    src: url("../font/AzeretMono-Regular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Azeret Mono-Regular';
+    src: url(../font/AzeretMono-Regular.ttf);
+    font-weight: 400;
+}   
+@font-face {
+    font-family: 'Inter_18-Regular';
+    src: url(../font/Inter_18pt-Regular.ttf);
+    font-weight: 400;
+}
